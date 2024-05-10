@@ -1,9 +1,10 @@
-# Professional-Profile-Readme-for-Developers
-Professional Profile Readme for Developers. This profile template offers a concise overview of your experience, qualifications, and online presence. 
+# Professional-Profile-Readme-for-Developers-Template
+Professional Profile Readme for Developers Template - Copy-paste-edit-publish, fork, and use it as you wish. 
+This profile template offers a concise overview of your experience, qualifications, and online presence. 
 
 ##############
 
-# My Professional Profile
+# My Professional Profile Template
 
 This profile offers a concise overview of my experience, qualifications, and online presence. 
 
