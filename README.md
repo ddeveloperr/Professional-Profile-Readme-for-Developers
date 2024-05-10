@@ -1,8 +1,8 @@
-# Professional-Profile-Readme-for-Developers-Template
-Professional Profile Readme for Developers Template - Copy-paste-edit-publish, fork, and use it as you wish. 
+# Professional-Developer-Profile-Stats-Readme-Template
+Professional Developer Profile Readme for Developers Template - Copy-paste-edit-publish, fork, and use it as you wish. 
 This profile template offers a concise overview of your experience, qualifications, and online presence. 
 
-##############
+######################################################################################################################
 
 # My Professional Profile Template
 
