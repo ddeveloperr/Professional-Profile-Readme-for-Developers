@@ -12,7 +12,7 @@ This profile offers a concise overview of my experience, qualifications, and onl
 
 * **Years of Experience:** [Number] years (highlight notable companies)
 * **Education:** [Highest Degree] ([University])
-* **H-index:** [Value]
+* **H-index:** [Value] The h-index is calculated by counting the number of publications for which an author has been cited by other authors at least that same number of times. For instance, an h-index of 17 means that the scientist has published at least 17 papers that have each been cited at least 17 times. According to Hirsch, a person with 20 years of research experience with an h-index of 20 is considered good, 40 is great, and 60 is remarkable.
 * **GitHub Followers:** [Number] (dynamically updated)
 * **StackOverflow Reputation:** [Number] (dynamically updated)
 * **Twitter Followers:** [Number] (dynamically updated)
